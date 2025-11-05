@@ -5,8 +5,8 @@
 🧪 Actualmente aprendiz de **Fullstack**
 🎨 Subiendo skills en **Frontend.** 
 📱 Me encanta que las cosas se vean bonitas y funcionales
- 🕹️ Fan del diseño de interfaces → botones que dan gusto apretar
- 🖌️A veces también dibujo
+🕹️ Fan del diseño de interfaces → botones que dan gusto apretar
+🖌️A veces también dibujo
 🧙‍♂️✨ Magia con código 
 <br>
 ```js

@@ -1,4 +1,4 @@
-![banner](/img/banner.gif)
+![banner](/img/banner.svg)
 <br>
 ## <img src="/img/sobre-mi.png" width="50" style="vertical-align: middle;" >&nbsp; Sobre mí
 

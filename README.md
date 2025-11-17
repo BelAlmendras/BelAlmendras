@@ -2,7 +2,7 @@
 <br>
 ## <img src="/img/sobre-mi.png" width="50" style="vertical-align: middle;" >&nbsp; Sobre mí
 
-🧪 Actualmente aprendiz de **Fullstack**<br>
+🧪 Aprendiz de **Fullstack**<br>
 🎨 Subiendo skills en **Frontend.** <br>
 📱 Me encanta que las cosas se vean bonitas y funcionales<br>
 🕹️ Fan del diseño de interfaces → botones que dan gusto apretar<br>

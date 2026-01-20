@@ -48,7 +48,7 @@ AutoCAD · SketchUp
 
 ## <img src="/img/contacto.png" width="60" style="vertical-align: middle;" >&nbsp; Conversemos
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](linkedin.com/in/belen-almendros-dev/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/belen-almendros-dev/) 
 <br>
 
 

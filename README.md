@@ -2,9 +2,9 @@
 <br>
 ## <img src="/img/sobre-mi.png" width="50" style="vertical-align: middle;" >&nbsp; Sobre mí
 
-🧪 Aprendiz de **Fullstack**<br>
-🎨 Subiendo skills en **Backend** <br>
-📱 Me encanta que las cosas se vean bonitas y funcionales<br>
+🧪 Soy aprendiz **Fullstack**<br>
+🎨 Estoy subiendo skills en **Backend** <br>
+📱 Me encanta que las cosas sean bonitas y funcionales<br>
 🖌️A veces también dibujo<br>
 <br>
 ```js
